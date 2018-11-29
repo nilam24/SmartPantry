@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SmartPantry</string>
+    <string name="textFirstName">First Name</string>
+    <string name="textLastName">Last Name</string>
+    <string name="textEmail">Email Id</string>
+    <string name="textPass">Password</string>
+    <string name="textContact">Contact</string>
+    <string name="City">City</string>
+    <string name="State">State</string>
+    <string name="textCountry">Country</string>
+    <string name="Email">Email Id</string>
+    <string name="editPs">Password</string>
+    <string name="btnLogin">login</string>
+    <string name="register">Register</string>
+    <string name="btnreset">Refresh</string>
+    <string name="forget">forget password</string>
+    <string name="editFn">First Name</string>
+    <string name="textManager">manager login</string>
+    <string name="distributor">Distributor login</string>
+    <string name="caterer">Caterer login</string>
+    <string name="show">show Product</string>
+    <string name="empty">Empty List</string>
+    <string name="alloc">Distributor Allocation</string>
+    <string name="btnsave">Save</string>
+    <string name="refresh">Refresh</string>
+    <string name="category">Food Category</string>
+    <string name="textnewpass">New Password</string>
+    <string name="Buttonupdate">update</string>
+    <string name="Buttonrefresh">Refresh</string>
+    <string name="oldpass">Old Password</string>
+    <string name="Beverage">Beverages</string>
+    <string name="add">add Product</string>
+    <string name="addProduct">Add Product</string>
+    <string name="productName">Product Name</string>
+    <string name="productCategory">Product Category Name</string>
+    <string name="quantity">Product Quantity</string>
+</resources>
